@@ -2,7 +2,9 @@ package atalay;
 
 public class CustomerInformation {
     public static void main(String[] args) {
-        System.out.println("Enter customer name and last name");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Oscar changed");
+        }
     }
 
 
