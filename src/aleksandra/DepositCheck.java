@@ -2,7 +2,9 @@ package aleksandra;
 
 public class DepositCheck {
     public static void main(String[] args) {
-        System.out.println("Iam testing checking account Feyza changed something ");
+        for (int i = 0; i < 10; i++) {
+            System.out.println("feyza changed");
+        }
     }
 
 }
